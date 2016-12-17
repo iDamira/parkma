@@ -1,0 +1,29 @@
+.login-container {
+  height: 70vh;
+  background-color: #E9E8E6;
+}
+
+.login-input-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 10%;
+}
+
+.login-input-container button{
+  padding: 10px;
+  background-color: #ccf;
+  font-size: 1em;
+  border-radius: 5px;
+  border: 1px solid white;
+  margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.login-input-container input {
+  padding: 10px;
+  width: 200px;
+  border-radius: 10px;
+  border-color: #ccf;
+}

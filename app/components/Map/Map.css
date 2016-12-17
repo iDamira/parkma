@@ -1,0 +1,11 @@
+.map-container {
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+.map-render-view {
+  border: 3px double #FED89D;
+}
